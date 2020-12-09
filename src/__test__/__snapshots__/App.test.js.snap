@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component snapshot render 1`] = `
+<div
+  className="App"
+>
+  <input
+    className="search"
+    onChange={[Function]}
+    placeholder="Search"
+    type="search"
+  />
+  <div
+    className="bugs"
+  />
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Conten Component snapshot render 1`] = `
+<div
+  className="bugs"
+>
+  <div>
+    No data to display
+  </div>
+</div>
+`;
